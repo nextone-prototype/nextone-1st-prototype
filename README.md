@@ -1,6 +1,15 @@
 # NextOne
 
-とりあえず
+- [Product hunt](http://www.producthunt.com/)
+- [Service safari](http://www.service-safari.com/)
+
+## How to launch server
+
+```
+$ npm install // 場合によっては一度 sudo npm install を行ってから
+$ bower install //
+$ sails lift
+```
 
 # 技術的なメモ
 

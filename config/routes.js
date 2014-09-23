@@ -33,8 +33,7 @@ module.exports.routes = {
   ***************************************************************************/
 
   '/': {
-    view: 'homepage',
-    cors: true
+    view: 'frontEndIndex',
   },
 
   '/product/post': {
